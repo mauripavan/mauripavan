@@ -1,14 +1,13 @@
 Hi 👋 My name is Mauricio!
 ==========================
 
-FullStack Developer
+React Native Developer
 -------------------
 
 In the last 3 years I worked as an Accounting Auditor, which in addition to giving me technical knowledge, enhanced a lot of soft skills such as teamwork, empathy and leadership. The implementation of the Scrum methodology allowed me to plan ahead, be more organized and a goal oriented person. Right now, I finished the Coding Bootcamp course of Plataforma 5, that trained me as a FullStack Developer. It's an intensive training program, which was carried out for more than 3 and a half months, with more than 800 hours of study. It combines practices and theory of the latest technologies that we can find in the labor market. In addition to all the technical knowledge, it enhances my soft skills through the application of Scrum and Pair Programming methodology.
 
 * 🌍  I'm based in Buenos Aires
 * ✉️  You can contact me at [mauriciopavan60@gmail.com](mailto:mauriciopavan60@gmail.com)
-* 🧠  I'm learning TypeScript
 * ⚡  Great team worker!
 
 ### Skills
